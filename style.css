@@ -1,0 +1,26 @@
+*{
+	
+}
+
+body{
+	background-color: #E5E6E4;
+}
+
+.container{
+	background-color: #CFD2CD;
+	padding: 50px;
+	border-radius: 20px;}
+
+.container:hover{
+	background-color: #A6A2A2;
+}
+
+footer{
+	text-align: center;
+	background-color: #A6A2A2;
+	padding: 60px;
+}
+a{
+	color: whitesmoke;
+	font-size: 20px
+}
